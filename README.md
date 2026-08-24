@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a seasoned FinTech and innovation leader with over a decade of experience nurturing startups, driving digital transformation, and building thriving technology ecosystems across Asia. Currently serving as a Project Manager at **The eMPF Platform Company**, I bridge the gap between emerging technologies and real-world business impact.
+I'm a seasoned FinTech and innovation leader with over a decade of experience nurturing startups, driving digital transformation, and building thriving technology ecosystems across Asia. I bridge the gap between emerging technologies and real-world business impact.
 
 - 🔭 **Current Focus**: Building AI agent systems for startup assessment, ESG reporting automation, and smart stakeholder communication
 - 🌱 **Learning Path**: Advanced AI agent orchestration, Multi-agent systems, RAG architectures
@@ -106,10 +106,6 @@ I'm a seasoned FinTech and innovation leader with over a decade of experience nu
 ---
 
 ## 💼 Professional Experience
-
-### **The eMPF Platform Company** *(Feb 2025 – Present)*
-**Project Manager**
-Leading digital transformation initiatives for Hong Kong's pension system modernization. Managing complex stakeholder relationships and delivering technology solutions that enhance user experience and operational efficiency.
 
 ### **Cyberport Hong Kong** *(Aug 2015 – Feb 2025)*
 **Assistant Manager - Smart Space Community**
