@@ -123,10 +123,10 @@ Supervising and reviewing final year projects, mentoring the next generation of 
 | **Degree** | **Institution** | **Year** |
 |------------|-----------------|----------|
 | MSc in Information & Technology Management | The Chinese University of Hong Kong | 2024–2027 |
-| LLM in International Corporate Governance | The University of Law | 2022–2024 |
+| LLM in International Corporate Governance | The University of Law (UK) | 2022–2024 |
 | MSc in E-Commerce & Internet Computing | The University of Hong Kong | 2019–2021 |
-| EMBA | Quantic School of Business & Technology | 2020–2021 |
-| B.Comm (Honours) with Minor in Economics | McMaster University |
+| EMBA | Quantic School of Business & Technology (US) | 2020–2021 
+| B.Comm (Honours) with Minor in Economics | McMaster University (Canada) 
 
 ### **🏅 Professional Certifications**
 <div align="center">
