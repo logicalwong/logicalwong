@@ -108,13 +108,9 @@ I'm a seasoned FinTech and innovation leader with over a decade of experience nu
 ## 💼 Professional Experience
 
 ### **Cyberport Hong Kong** *(Aug 2015 – Feb 2025)*
-**Assistant Manager - Smart Space Community**
 - Nurtured over **1,000 startups** in FinTech, Smart Living, and Digital Entertainment
-- Co-led funding support team managing programs including **RTH, MDSS, CASP, and Micro Fund**
 - Supported unicorns: **Animoca Brands, Klook, GoGoX, ZA Bank, WeLab Bank, StepN**
-- Drove digitalization of incubation programs with human-centric design
-- Completed paperless frontend systems for admission and funding applications
-
+-
 ### **The University of Hong Kong** *(Apr 2026 – Aug 2026)*
 **Project Supervisor – MSc in E-Commerce & Internet Computing**
 Supervising and reviewing final year projects, mentoring the next generation of technology leaders.
@@ -126,11 +122,11 @@ Supervising and reviewing final year projects, mentoring the next generation of 
 ### **🎓 Education**
 | **Degree** | **Institution** | **Year** |
 |------------|-----------------|----------|
-| LLM in International Corporate Governance | The University of Law | 2022–2024 |
 | MSc in Information & Technology Management | The Chinese University of Hong Kong | 2024–2027 |
+| LLM in International Corporate Governance | The University of Law | 2022–2024 |
 | MSc in E-Commerce & Internet Computing | The University of Hong Kong | 2019–2021 |
 | EMBA | Quantic School of Business & Technology | 2020–2021 |
-| B.Comm (Honours) with Minor in Economics | McMaster University | — |
+| B.Comm (Honours) with Minor in Economics | McMaster University |
 
 ### **🏅 Professional Certifications**
 <div align="center">
@@ -207,12 +203,6 @@ Supervising and reviewing final year projects, mentoring the next generation of 
 ## 🌐 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaywongdev&theme=react-dark" width="100%">
-
-## 🏆 My Trophies
-
-![My Trophies](https://github-profile-trophy.vercel.app/?username=jaywongdev)
-
----
 
 ## 💡 Thought Leadership & Interests
 
