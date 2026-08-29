@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a seasoned FinTech and innovation leader with over a decade of experience nurturing startups, driving digital transformation, and building thriving technology ecosystems across Asia. I bridge the gap between emerging technologies and real-world business impact.
+I'm a seasoned FinTech and innovation leader with over a decade of experience nurturing startups, driving digital transformation, and building thriving technology ecosystems across Asia. Currently serving as a Project Manager at **The eMPF Platform Company**, I bridge the gap between emerging technologies and real-world business impact.
 
 - 🔭 **Current Focus**: Building AI agent systems for startup assessment, ESG reporting automation, and smart stakeholder communication
 - 🌱 **Learning Path**: Advanced AI agent orchestration, Multi-agent systems, RAG architectures
@@ -110,7 +110,7 @@ I'm a seasoned FinTech and innovation leader with over a decade of experience nu
 ### **Cyberport Hong Kong** *(Aug 2015 – Feb 2025)*
 - Nurtured over **1,000 startups** in FinTech, Smart Living, and Digital Entertainment
 - Supported unicorns: **Animoca Brands, Klook, GoGoX, ZA Bank, WeLab Bank, StepN**
--
+
 ### **The University of Hong Kong** *(Apr 2026 – Aug 2026)*
 **Project Supervisor – MSc in E-Commerce & Internet Computing**
 Supervising and reviewing final year projects, mentoring the next generation of technology leaders.
@@ -122,31 +122,20 @@ Supervising and reviewing final year projects, mentoring the next generation of 
 ### **🎓 Education**
 | **Degree** | **Institution** | **Year** |
 |------------|-----------------|----------|
+| LLM in International Corporate Governance | The University of Law | 2022–2024 |
 | MSc in Information & Technology Management | The Chinese University of Hong Kong | 2024–2027 |
-| LLM in International Corporate Governance | The University of Law (UK) | 2022–2024 |
 | MSc in E-Commerce & Internet Computing | The University of Hong Kong | 2019–2021 |
-| EMBA | Quantic School of Business & Technology (US) | 2020–2021 
-| B.Comm (Honours) with Minor in Economics | McMaster University (Canada) 
+| EMBA | Quantic School of Business & Technology | 2020–2021 |
+| B.Comm (Honours) with Minor in Economics | McMaster University | — |
 
 ### **🏅 Professional Certifications**
-<div align="center">
-  <table>
-    <tr>
-      <td>✅ PMP®</td>
-      <td>✅ PRINCE2 Agile® Foundation</td>
-      <td>✅ PSM</td>
-    </tr>
-    <tr>
-      <td>✅ PSPO</td>
-      <td>✅ ITIL®</td>
-      <td>✅ CEP® (Certified ESG Planner)</td>
-    </tr>
-    <tr>
-      <td>✅ Certificate in ESG Investing</td>
-      <td colspan="2">✅</td>
-    </tr>
-  </table>
-</div>
+- ✅ **PMP®** (Project Management Professional)
+- ✅ **PRINCE2 Agile® Foundation**
+- ✅ **PSM** (Professional Scrum Master)
+- ✅ **PSPO** (Professional Scrum Product Owner)
+- ✅ **ITIL®** (Information Technology Infrastructure Library)
+- ✅ **CEP®** (Certified ESG Planner)
+- ✅ **Certificate in ESG Investing**
 
 ---
 
@@ -193,16 +182,21 @@ Supervising and reviewing final year projects, mentoring the next generation of 
 
 ## 📊 GitHub Status
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaywongdev&theme=tokyonight" width="51%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=logicalwong&theme=tokyonight" width="49%">
 
 ## 📈 Languages Status
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaywongdev&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="40%" align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaywongdev&theme=tokyonight" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=logicalwong&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="49%">
 
 ## 🌐 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaywongdev&theme=react-dark" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=logicalwong&theme=react-dark" width="100%">
+
+## 🏆 My Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=logicalwong" width="100%">
+
+---
 
 ## 💡 Thought Leadership & Interests
 
@@ -212,12 +206,6 @@ Supervising and reviewing final year projects, mentoring the next generation of 
 - 🌱 **ESG & Sustainable Finance** – Impact investing, regulatory compliance, reporting
 - 📚 **Mentorship & Community Building** – Nurturing startups and emerging talent
 - 🏛️ **Public Policy & Corporate Governance** – International regulatory frameworks
-
----
-
-## 📝 Latest Blog Posts
-
-*Coming soon – I'll be sharing insights on AI agents in FinTech, ESG automation, and Web3 regulatory intelligence.*
 
 ---
 
