@@ -178,23 +178,6 @@ Supervising and reviewing final year projects, mentoring the next generation of 
   </a>
 </p>
 
----
-
-## 📊 GitHub Status
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=logicalwong&theme=tokyonight" width="49%">
-
-## 📈 Languages Status
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=logicalwong&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="49%">
-
-## 🌐 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=logicalwong&theme=react-dark" width="100%">
-
-## 🏆 My Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=logicalwong" width="100%">
 
 ---
 
