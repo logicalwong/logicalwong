@@ -15,7 +15,7 @@ I'm a seasoned FinTech and innovation leader with over a decade of experience nu
 - 🔭 **Current Focus**: Building AI agent systems for startup assessment, ESG reporting automation, and smart stakeholder communication
 - 🌱 **Learning Path**: Advanced AI agent orchestration, Multi-agent systems, RAG architectures
 - 💼 **Experience**: Nurtured over **1,000 startups** including unicorns like Animoca Brands, Klook, GoGoX, ZA Bank, and WeLab Bank
-- 📚 **Education**: LLM (Univ of Law) | MSc (CUHK & HKU) | EMBA (Quantic)
+- 📚 **Education**: LLM (Univ of Law) | MSc (HKU) | EMBA (Quantic)
 - 🏆 **Certifications**: PMP® | PRINCE2 Agile® | PSM | PSPO | CEP® | ITIL®
 - 💬 **Passion**: Leveraging AI to solve complex problems in FinTech, Web3, and ESG
 - ⚡ **Fun Fact**: Don't be surprised if you find me in any start-up events! 🚀
@@ -127,7 +127,7 @@ Supervising and reviewing final year projects, mentoring the next generation of 
 | **Degree** | **Institution** | **Year** |
 |------------|-----------------|----------|
 | LLM in International Corporate Governance | The University of Law | 2022–2024 |
-| MSc in Information & Technology Management | The Chinese University of Hong Kong | 2024–2027 |
+| MSc in Information & Technology Management | The Chinese University of Hong Kong | 2024–2027 (Expected)|
 | MSc in E-Commerce & Internet Computing | The University of Hong Kong | 2019–2021 |
 | EMBA | Quantic School of Business & Technology | 2020–2021 |
 | B.Comm (Honours) with Minor in Economics | McMaster University 
