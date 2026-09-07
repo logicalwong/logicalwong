@@ -82,6 +82,10 @@ I'm a seasoned FinTech and innovation leader with over a decade of experience nu
 ---
 
 ## 🌟 Featured Projects
+### 0. 🐍 Retro Greedy Snake Arcade
+Status: 🚀 Completed
+Tech Stack: HTML5 Canvas, JavaScript (ES6+), CSS3
+Description: A classic browser-based Snake game featuring smooth responsive grid movement, dynamic speed progression, score tracking, and custom collision detection
 
 ### 1. 🔍 **Startup Health & Funding Readiness Agent**
 > **Status:** 🚧 In Development
@@ -126,7 +130,7 @@ Supervising and reviewing final year projects, mentoring the next generation of 
 | MSc in Information & Technology Management | The Chinese University of Hong Kong | 2024–2027 |
 | MSc in E-Commerce & Internet Computing | The University of Hong Kong | 2019–2021 |
 | EMBA | Quantic School of Business & Technology | 2020–2021 |
-| B.Comm (Honours) with Minor in Economics | McMaster University | — |
+| B.Comm (Honours) with Minor in Economics | McMaster University 
 
 ### **🏅 Professional Certifications**
 - ✅ **PMP®** (Project Management Professional)
